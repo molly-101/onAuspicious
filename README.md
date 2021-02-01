@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-| aa  |   vvv|  ds | c  |   a|
-|   |   |   |   s|   |
-|   |   |   |  c |   |
+My algorithm major language is : https://img.shields.io/github/languages/top/onAuspicious/Algorithm?style=plastic
