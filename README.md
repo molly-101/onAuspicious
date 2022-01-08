@@ -10,8 +10,5 @@
   <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
   <img src="https://img.shields.io/badge/-JPA-blue"/>
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
-<!--   <img src="https://img.shields.io/badge/-Vuejs-yellow"/>&nbsp -->
-<!--    <img src="https://img.shields.io/badge/-Vuex-red"/>&nbsp -->
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-<!--   <img src="https://img.shields.io/badge/-Swagger-navy"/>&nbsp -->
  </p>
