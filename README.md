@@ -1,7 +1,7 @@
 ## Hello there :) 
 
-<!-- [![onAuspicious's github stats](https://github-readme-stats.vercel.app/api?username=onAuspicious&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wotj7687)](https://solved.ac/wotj7687) -->
+<!-- [![onAuspicious's github stats](https://github-readme-stats.vercel.app/api?username=onAuspicious&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wotj7687)](https://solved.ac/wotj7687)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onAuspicious&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h4 align="center">📚 Technology Stack 📚</h4> 
