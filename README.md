@@ -15,3 +15,6 @@
 
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wotj7687)](https://solved.ac/wotj7687) -->
+
+
+<!-- 2021/02/07 집을 보러 서울에 다녀왔습니다. 사회초년생의 현실은 정말 녹록치 않다는걸 느꼈읍니다.. TT -->
